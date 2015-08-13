@@ -1,0 +1,168 @@
+<!DOCTYPE HTML>
+
+<html>
+
+	<head>
+
+	<title> Web Log Juan Luis Muñoz Arias </title>
+
+	<meta name="descripcion" content=" WuebLog de Juan Luis Muñoz Arias, diseño, multimedia"/ >
+
+	<meta http-equiv="refresh" content="50" />
+
+	</head>
+
+	<body>
+
+		<div id= "cajaheder" itempscope itemtype="http//www.data-vocabulary.org/Person">
+
+		</div>
+
+		<div id="principal">
+
+			<heder>
+
+				<div id="logo"></div>
+
+				<h1> <span itemprop ="name">Juan Luis Muñoz Arias</span><h1/>
+
+				<h2> <span itemprop ="title">Ingeniero en Sistemas de Computo</span></h2>
+
+			
+
+				<nav>
+
+					<ul>
+
+						<li><a href="inicio.html"> Inicio 1</li>
+
+						<li><a href="noticias.html"> Noticias 2</li>
+
+						<li><a href="sobremi.html"> Sobre mi</li>
+
+					    <li><a href="contacto.hatml"> Contactos</li>
+
+					</ul>
+
+				</nav>
+
+			</heder>
+
+			<section>
+
+				<span itemprop ="photo"><img src="photo/JuanLuisMuñozArias.jpg" width= 50px heigth=50px></span>
+
+				Soy un estudiante de Ingenieria en Sistemas  de Computo, me gusta la creativdad multimedia y el desarrollo web, asi como la implementacion de las nuevas tecnologias de desarrollo en aplicaciones moviles de todos tipos. Mi interes principal es la aplicacion y la combinacion de los ultimos avances en tecnologia interactiva, con el objeto de mejorar la experencia para el usuario final.				
+
+			</section>
+
+			<aside>
+
+				<h5>post previos</h5>
+
+				<li><a href=""> <time>2016-12-01 Feliz Año nuevo</time></li>
+
+				<li><a href=""> <time>2015-12-01 Titulo del Articulo1</time></li>
+
+				<li><a href=""> <time>2015-12-01 Titulo del Articulo2</time></li>
+
+				<li><a href=""> <time>2015-12-01 Titulo del Articulo3</time></li>
+
+			</aside>
+
+			<section>
+
+				<article>
+
+					<time> 2015-12-01 Titulo </time>
+
+					<h3>Titulo del post</h3>
+
+					<h4>Subtitulo del post</h4>
+
+					<p>Contenido del articulo Contenido del articulo Contenido del articulo Contenido del articuloContenido del articulo<P>
+
+				</article>
+
+				<article>
+
+					<time> 2015-12-01 Titulo </time>
+
+					<h3>Titulo del post</h3>
+
+					<h4>Subtitulo del post</h4>
+
+					<p>Contenido del articulo Contenido del articulo Contenido del articulo Contenido del articuloContenido del articulo<P>
+
+				</article>
+
+				<article>
+
+					<div id="logoblender"></div>
+
+						<time>2011-01-8</time>
+
+						<h3>Sintel</h3>
+
+						<h4>Nuevo cortometraje de Blender Foundation</h4>
+
+						<p>Una vez más, vuelve a sorprendernos las capacidades de este maravilloso software libre de creación 3D</p>
+
+						<video controls="controls" width="300px" height="150px" preload="preload">
+
+							<source src="video/sintel.ogg" type="video/ogg" />
+
+							<source src="video/sintel.mp4" type="video/mpeg" />
+
+							<source src="video/sintel.webm" type="video/webm" />
+
+							Tu navegador no soporta video. Haz clic <a href="">AQUI</a> para descargar un navegador compatible
+
+						</video>
+
+				</article>
+
+				<article>
+
+					<div id="mifotoarticulo"></div>
+
+						<time>2011-01-02</time>
+
+						<h3>Nuevo tema musical</h3>
+
+						<h4>Otra composición más para el repertorio</h4>
+
+						<p>Este tema no es exactamente nuevo, pero lo publico para que lo podais escuchar</p>
+
+						<audio src="audio/0802.ogg" controls="controls" preload="preload">
+
+							Tu navegador no soporta audio. Haz clic <a href="">AQUI</a> para descargar un navegador compatible
+
+						</audio>
+
+				</article>
+
+			</section>
+
+			<footer>
+
+		    <h6>
+
+				<div class="vcard">
+
+					<div><span class="name">Juan luis Muñoz Arias</span>-<span class="locality">San Cristobal</span>-<span class="region">Chiapas</span>-<span class="postal-code">29410</span>-<span class="country-name">Mexico</span>
+
+					<div><span class="tel">992 690 76 83</span>-<span class="emai2">android_jl@hotmail.com</span></div>
+
+				</div>
+
+			</h6>
+
+			</footer>
+
+        </div>
+
+	</body>
+
+</html>
+
